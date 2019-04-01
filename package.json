@@ -1,0 +1,28 @@
+{
+  "name": "demoproj",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "loaders.css": "^0.1.2",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-image-gallery": "^0.8.9",
+    "react-loader-spinner": "^2.1.0",
+    "react-loaders": "^3.0.1",
+    "react-on-scroll": "^0.2.2",
+    "react-onscroll": "^1.0.4",
+    "react-redux": "^5.0.7",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.4",
+    "react-slick": "^0.23.1",
+    "redux": "^4.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

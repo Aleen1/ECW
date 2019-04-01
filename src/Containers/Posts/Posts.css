@@ -1,0 +1,14 @@
+.Posts {
+    display: flex;
+    flex-flow: row wrap;
+    /* flex-wrap: wrap; */
+    justify-content: left;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 50px
+    
+}
+
+#loading{
+    text-align: center
+}
